@@ -1,3 +1,3 @@
 # Bilingual-Dictionary-Extraction
 
-Hind-English Dictinary Extraction From Comparable Corpora(Wiki)
+Hindi-English Dictinary Extraction From Comparable Corpora(Wiki)
